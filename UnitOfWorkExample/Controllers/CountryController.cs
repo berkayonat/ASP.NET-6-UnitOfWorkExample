@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using UnitOfWorkExample.Data;
+using UnitOfWorkExample.Model;
 using UnitOfWorkExample.Repository;
 
 namespace UnitOfWorkExample.Controllers
